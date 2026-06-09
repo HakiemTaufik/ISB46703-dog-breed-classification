@@ -1,0 +1,1 @@
+{"ResNet50": {"test_accuracy": 0.9131, "mAP": 0.9645, "params": 23597957, "train_time_s": 618.7}, "DenseNet121": {"test_accuracy": 0.9313, "mAP": 0.9698, "params": 7042629, "train_time_s": 587.0}, "MobileNetV3": {"test_accuracy": 0.9157, "mAP": 0.9657, "params": 3001157, "train_time_s": 192.9}}
