@@ -1,0 +1,4 @@
+,Test accuracy,mAP,Params (M),Train time (s)
+ResNet50,0.9131,0.9645,23.6,618.7
+DenseNet121,0.9313,0.9698,7.04,587.0
+MobileNetV3,0.9157,0.9657,3.0,192.9
